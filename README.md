@@ -1,5 +1,7 @@
 # MusicVisualiser
 Music Visualiser in Processing
+
+### What it does
 Uses FFT to analyse the sound input and produce dynamic effects
 
 ### To Run
